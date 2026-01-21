@@ -1,2 +1,14 @@
-# advanced-pure-css-photo-gallery
-Advanced Pure CSS Photo Gallery – A modern, responsive photo gallery built using only HTML and CSS. Features include CSS Grid layout, masonry-style cards, glassmorphism overlays, grayscale-to-color hover effects, and smooth zoom animations without using JavaScript.
+# Advanced Pure CSS Photo Gallery
+
+## Features
+- Responsive CSS Grid layout
+- Masonry-style cards
+- Glassmorphism overlay
+- Black & white to color hover effect
+- Smooth zoom animations
+
+## Tech Used
+HTML5 & CSS3 (No JavaScript)
+
+## Live Demo
+Open index.html in browser or deploy using GitHub Pages.
